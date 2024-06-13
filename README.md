@@ -1,5 +1,7 @@
 Formação fullstack
 
+Link do projeto no figma: https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=101-2&t=k6NC3XeWSmAG6qwY-0
+
 Aula dia 13/06
 
  Manifesto ágil
