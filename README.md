@@ -32,3 +32,18 @@ Poker planning
  - Scrum master,
  - Product Owner,
  - Equipe de desenvolvimento
+
+*Aula 14/06*
+
+- Comandos no terminal:
+pwd - ver local que estamos
+ls - listar o que tem dentro da pasta
+clear ou control + L - limpar
+cd + nome da pasta - entrar em pasta
+cd + enter - vai pra home 
+cd + / - vai para raiz
+ls -a - exibe os arquivos anônimos
+touch - criar pasta
+
+
+
