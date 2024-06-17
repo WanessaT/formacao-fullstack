@@ -4,6 +4,7 @@ Links importantes:
 https://github.com/iamismile/web-dev-resources
 https://www.csszengarden.com/
 https://www.freecodecamp.org/portuguese/learn/
+https://css-tricks.com/snippets/
 
 Link do projeto no figma: https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=101-2&t=k6NC3XeWSmAG6qwY-0
 
@@ -51,6 +52,9 @@ ls -a - exibe os arquivos anônimos
 touch - criar pasta
 
 *Aula 17/06*
+
+- Elemento Form
+Tipos de input
 
 
 
