@@ -75,6 +75,15 @@ E decladado por @media
 - Abordagem de layout
 Aplicação de grid para organização da interface
 
+- Links da aula:
+https://www.maujor.com/tutorial/layout-css-passo-a-passo.php
+https://www.homehost.com.br/blog/criar-sites/tabela-html/
+https://maujor.com/tutorial/usando-jaws-para-testes.php#intro
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-align
+https://flexboxfroggy.com/
+https://www.w3schools.com/css/css_pseudo_elements.asp
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+https://shellshock.io/#6ABT23D
 
 
 
