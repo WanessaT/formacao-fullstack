@@ -84,6 +84,7 @@ https://flexboxfroggy.com/
 https://www.w3schools.com/css/css_pseudo_elements.asp
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 https://shellshock.io/#6ABT23D
+https://www.conventionalcommits.org/en/v1.0.0/
 
 - Pseudoclasse e pseudoelemento
 
@@ -97,3 +98,4 @@ Comandos git:
 
    git status - identifica qual status do seu arquivo, onde ele está
 
+   git pull origin main - trazer a pasta que está remota para a minha máquina
