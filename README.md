@@ -73,6 +73,7 @@ Tipos de input
 E decladado por @media
 
 - Abordagem de layout
+Aplicação de grid para organização da interface
 
 
 
