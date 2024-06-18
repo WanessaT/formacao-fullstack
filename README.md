@@ -85,5 +85,6 @@ https://www.w3schools.com/css/css_pseudo_elements.asp
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 https://shellshock.io/#6ABT23D
 
+- Pseudoclasse e pseudoelemento
 
 
