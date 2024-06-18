@@ -87,4 +87,13 @@ https://shellshock.io/#6ABT23D
 
 - Pseudoclasse e pseudoelemento
 
+- Github
+Comandos git:
+ -> Para configurar a máquina que você está com o git:
+   git config
+   git init
+   git config user.name "WanessaT"
+   git config user.email "wanessatlsousa@gmail.com"
+
+   git status - identifica qual status do seu arquivo, onde ele está
 
