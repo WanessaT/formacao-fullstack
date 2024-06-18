@@ -56,5 +56,24 @@ touch - criar pasta
 - Elemento Form
 Tipos de input
 
+*Aula 18/06*
+
+- Padding
+- Margin
+- Espaçamento de texto -> letter-spacing e line-height
+- Display: block, inline, inline-block, none, flex, grid
+ -> none: remove o elemento da tela
+ -> block: se aplica a elementos de bloco, ex: tag p, h, div e etc
+ -> inline: se aplica em elementos que não precisam estar em bloco, ex: tags a, img, spam
+ -> inline-block: posiciona dois elementos de bloco em uma linha, porém com o display flex essa função não é mais tão utilizada. Tag buttom é inline-block
+ -> flex: usado sempre no elemento pai, quando ativado o display flex, libera inumeras possibiidades para essa função
+
+- Media Query
+É a capacidade de escrever o estilo de acordo com o tamanho da tela, gerando responsividade.
+E decladado por @media
+
+- Abordagem de layout
+
+
 
 
