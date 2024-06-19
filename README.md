@@ -106,3 +106,12 @@ Comandos git:
 - Comandos git
 - Link avaliação HTML e CSS:
 https://github.com/digitalcollegebr/fullstack-avaliacoes/tree/main/Modulo_I/II-HTML_e_CSS/imagens
+
+- Listar branchs do projeto:
+git branch -a
+
+- Criar uma branch separada da main:
+git branch -m "Nome da branch"
+
+- Voltar para a main:
+git checkout main
