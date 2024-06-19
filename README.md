@@ -99,3 +99,8 @@ Comandos git:
    git status - identifica qual status do seu arquivo, onde ele está
 
    git pull origin main - trazer a pasta que está remota para a minha máquina
+
+
+*Aula 19/06*
+
+- Comandos git
