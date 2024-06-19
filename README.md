@@ -104,3 +104,5 @@ Comandos git:
 *Aula 19/06*
 
 - Comandos git
+- Link avaliação HTML e CSS:
+https://github.com/digitalcollegebr/fullstack-avaliacoes/tree/main/Modulo_I/II-HTML_e_CSS/imagens
