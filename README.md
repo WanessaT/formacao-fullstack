@@ -111,7 +111,22 @@ https://github.com/digitalcollegebr/fullstack-avaliacoes/tree/main/Modulo_I/II-H
 git branch -a
 
 - Criar uma branch separada da main:
-git branch -m "Nome da branch"
+git branch -a "Nome da branch"
 
 - Voltar para a main:
 git checkout main
+
+*Aula 20/06*
+
+- Criar branch e já navegar para ela:
+git checkout -b nova-branch
+
+- Para navegar entre commits:
+git checkout +id do commit (pode usar os 8 primeiros digitos do commit)
+
+- Para ver o id dos commits:
+git log (mais detalhado)
+git log --oneline (exibe de forma resumida)
+
+- Para realizar o merge:
+git merge nome-da-branch (normalmente o merge vai para a master)
