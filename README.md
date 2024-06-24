@@ -130,3 +130,10 @@ git log --oneline (exibe de forma resumida)
 
 - Para realizar o merge:
 git merge nome-da-branch (normalmente o merge vai para a master)
+
+*Aula 24/05*
+
+- Npm -> Gerenciador de pacotes para usar nos nossos projetos no node e js. Criou-se o yarn para ser concorrente do npm
+- Bootstrap não tem dependencia de outros pacotes
+- Bundlephobia
+- Sempre que estiver em um projeto usando o nopm, tem que criar um git ignore para a pasta node modules
