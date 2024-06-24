@@ -137,3 +137,4 @@ git merge nome-da-branch (normalmente o merge vai para a master)
 - Bootstrap não tem dependencia de outros pacotes
 - Bundlephobia
 - Sempre que estiver em um projeto usando o nopm, tem que criar um git ignore para a pasta node modules
+- Layouts css
