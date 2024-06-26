@@ -131,10 +131,29 @@ git log --oneline (exibe de forma resumida)
 - Para realizar o merge:
 git merge nome-da-branch (normalmente o merge vai para a master)
 
-*Aula 24/05*
+*Aula 24/06*
 
 - Npm -> Gerenciador de pacotes para usar nos nossos projetos no node e js. Criou-se o yarn para ser concorrente do npm
 - Bootstrap não tem dependencia de outros pacotes
 - Bundlephobia
 - Sempre que estiver em um projeto usando o nopm, tem que criar um git ignore para a pasta node modules
 - Layouts css
+
+*Aula 26/06*
+
+- Lógica de programação em Js
+- Js é uma linguagem fracamente tipada
+- Operadores matemáticos/aritméticos
+- Tipos de algoritimos:
+  - Estrutura sequencial (segue de forma linear, linha a linha)
+  - Estrutura de decisão (ex: if else)
+  - Estrutura de repetição (ex: while)
+  - Estrutura de controle (ex: for)
+- Operadores:
+   - Atribuição
+   - Lógicos
+   - Aritméticos
+   - Comparação
+- Sintaxe para fazer código no github:
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
