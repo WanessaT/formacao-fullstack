@@ -157,3 +157,9 @@ git merge nome-da-branch (normalmente o merge vai para a master)
 - Sintaxe para fazer código no github:
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+*Aula 27/06*
+
+- Atividade sobre variáveis, strings e number
+- Auto-analise do conteúdo visto até agora e levantamento de oportunidades
+- Ver documentação oficial dos principais conceitos de JS
+- Apresentação de operadores lógicos e estruturas na prática
