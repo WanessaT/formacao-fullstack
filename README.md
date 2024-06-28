@@ -171,3 +171,5 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 - Arrow functions = É declarado como const nomeFunção = () => {}
 - Condições ternárias
   - É declarado em uma linha só. Ex: let discount = region === 'CE' ? 20 : 0
+- Expressões e operadores JS
+  - Expressões primárias 
