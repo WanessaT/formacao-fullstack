@@ -163,3 +163,9 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 - Auto-analise do conteúdo visto até agora e levantamento de oportunidades
 - Ver documentação oficial dos principais conceitos de JS
 - Apresentação de operadores lógicos e estruturas na prática
+
+*Aula 28/06*
+
+- Estrutura de condição if e else
+- Consultar qual condição booleana dos valores -> no console coloca Boolean(valor) ou !!valor
+- 
