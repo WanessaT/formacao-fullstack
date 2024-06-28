@@ -168,4 +168,6 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 
 - Estrutura de condição if e else
 - Consultar qual condição booleana dos valores -> no console coloca Boolean(valor) ou !!valor
-- 
+- Arrow functions = É declarado como const nomeFunção = () => {}
+- Condições ternárias
+  - É declarado em uma linha só. Ex: let discount = region === 'CE' ? 20 : 0
