@@ -172,4 +172,8 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 - Condições ternárias
   - É declarado em uma linha só. Ex: let discount = region === 'CE' ? 20 : 0
 - Expressões e operadores JS
-  - Expressões primárias 
+  - Expressões primárias
+ 
+ *Aula 01/07*
+
+ - Estruturas de repetição for 
